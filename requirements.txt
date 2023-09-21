@@ -1,0 +1,10 @@
+pyspark==3.4.1
+polars==0.19.2
+duckdb==0.8.1
+awswrangler
+imbalanced-learn 
+sagemaker
+boto3
+pandas
+numpy
+matplotlib
